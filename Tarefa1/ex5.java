@@ -6,8 +6,6 @@ public class ex5 {
 
         System.out.print("Digite a nota da P1: ");
         float P1 = scanner.nextFloat();
-        System.out.print("Digite a nota da P2: ");
-        float P2 = scanner.nextFloat();
         System.out.print("Digite a nota da E1: ");
         float E1 = scanner.nextFloat();
         System.out.print("Digite a nota da E2: ");
