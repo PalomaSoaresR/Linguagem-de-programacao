@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FracaoTeste",
+            "request": "launch",
+            "mainClass": "FracaoTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "LivroTestar",
+            "request": "launch",
+            "mainClass": "LivroTestar",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "AplicativosTeste",
+            "request": "launch",
+            "mainClass": "AplicativosTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "CanecaTeste",
+            "request": "launch",
+            "mainClass": "CanecaTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "LapisTeste",
+            "request": "launch",
+            "mainClass": "LapisTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "TesteClasse",
+            "request": "launch",
+            "mainClass": "TesteClasse",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "RelogioTeste",
+            "request": "launch",
+            "mainClass": "RelogioTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "CachorroTeste",
+            "request": "launch",
+            "mainClass": "CachorroTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "AlunoTeste",
+            "request": "launch",
+            "mainClass": "AlunoTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "CarroTeste",
+            "request": "launch",
+            "mainClass": "CarroTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "PessoasTeste",
+            "request": "launch",
+            "mainClass": "PessoasTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "TecnologiasTestar",
+            "request": "launch",
+            "mainClass": "TecnologiasTestar",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "tecnologias",
+            "request": "launch",
+            "mainClass": "tecnologias",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "ok",
+            "request": "launch",
+            "mainClass": "ok",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "Corpohumano",
+            "request": "launch",
+            "mainClass": "Corpohumano",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
             "name": "ex18",
             "request": "launch",
             "mainClass": "ex18",
