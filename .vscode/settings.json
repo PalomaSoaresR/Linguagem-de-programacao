@@ -2,11 +2,16 @@
     "java.project.sourcePaths": [
         "Tarefa2",
         "Tarefa1",
-        "Tarefa3"
+        "Tarefa3",
+        "Tarefa4"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.completion.staticImport": true,
+    
+
 }

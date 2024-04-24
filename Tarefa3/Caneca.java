@@ -40,4 +40,5 @@ public class Caneca {
         System.out.print("Você está segurando a caneca");
 
     }
+
 }

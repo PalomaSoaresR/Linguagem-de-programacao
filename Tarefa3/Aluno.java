@@ -38,7 +38,7 @@ public class Aluno {
 
     public boolean assistirAula(boolean assistindo) {
         if (assistindo) {
-            System.out.println(" e está assistindo aula");
+            System.out.println(" está assistindo aula");
         } else {
             System.out.println(" não está assistindo aula");
         }

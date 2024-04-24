@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "aplivativos"
+        },
+        {
+            "type": "java",
+            "name": "Fracao",
+            "request": "launch",
+            "mainClass": "Fracao",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "FracaoTeste",
+            "request": "launch",
+            "mainClass": "FracaoTeste",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "aluno"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Caneca",
+            "request": "launch",
+            "mainClass": "Caneca",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
+            "name": "TecnologiasTeste",
+            "request": "launch",
+            "mainClass": "TecnologiasTeste",
+            "projectName": "LP1_79f11b4"
+        },
+        {
+            "type": "java",
             "name": "FracaoTeste",
             "request": "launch",
             "mainClass": "FracaoTeste",
