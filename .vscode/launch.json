@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "com.tarefa5/com.tarefa5.App",
+            "projectName": "crud"
+        },
+        {
+            "type": "java",
+            "name": "DbConnection",
+            "request": "launch",
+            "mainClass": "com.tarefa5/com.tarefa5.DbConnection",
+            "projectName": "crud"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "com.example/com.example.App",
             "projectName": "aplivativos"
         },
